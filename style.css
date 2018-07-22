@@ -102,6 +102,11 @@ h2 {
   font-size: 3.5rem;
 }
 
+.noMargin {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
