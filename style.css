@@ -70,7 +70,7 @@ html, body, .Container {
     height: 10vw;
     width: 10vw;
     border-radius: 50%;
-    margin-top: 20vh;
+    margin-top: 15vh;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -123,6 +123,10 @@ h2 {
 
 .list-icons {
   font-size: 3rem;
+}
+
+.vspace {
+  margin-top: 42vh;
 }
 
 section.resume-section {
