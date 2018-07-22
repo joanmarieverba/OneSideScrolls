@@ -129,6 +129,26 @@ h2 {
   margin-top: 42vh;
 }
 
+.caption {
+  background-color: #4aaaa5;
+  height: 30px;
+  position: relative;
+  margin-top: -60px;
+  margin-left: 0px;
+  color: #ffffff;
+  text-align: center;
+  font-size: 20px;
+}
+
+.rowspace {
+    margin-top: 60px;
+}
+
+.imgsize img {
+    height: 150px;
+    width: 250px;
+}
+
 section.resume-section {
   border-bottom: 1px solid $gray-300;
   padding-top: 5rem !important;
